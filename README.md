@@ -10,11 +10,7 @@ ccminer-cryptonight, a ccminer mod by tsiv
 If you find this tool useful and like to support its continued 
           development, then consider a donation.
 
-   BTC donation address: 1JHDKp59t1RhHFXsTw2UQpR3F9BBz3R3cs
-   DRK donation address: XrHp267JNTVdw5P3dsBpqYfgTpWnzoESPQ
-   JPC donation address: Jb9hFeBgakCXvM5u27rTZoYR9j13JGmuc2
-   VTC donation address: VwYsZFPb6KMeWuP4voiS9H1kqxcU9kGbsw
-   XMR donation address: 
+    XMR donation address: 
      (man these are long... single address, split on two lines)
      42uasNqYPnSaG3TwRtTeVbQ4aRY3n9jY6VXX3mfgerWt4ohD
      QLVaBPv3cYGKDXasTUVuLvhxetcuS16ynt85czQ48mbSrWX
@@ -23,19 +19,7 @@ Don't forget to support the original ccminer authors
 Christian Buchner and Christian H. This mod would not be
 here without their work on ccminer:
 
-   LTC donation address: LKS1WDKGED647msBQfLBHV3Ls8sveGncnm
-   BTC donation address: 16hJF5mceSojnTD3ZTUDqdRhDyPJzoRakM
-   YAC donation address: Y87sptDEcpLkLeAuex6qZioDbvy1qXZEj4
-   VTC donation address: VrjeFzMgvteCGarLw85KivBzmsiH9fqp4a
-   MAX donation address: mHrhQP9EFArechWxTFJ97s9D3jvcCvEEnt
-  DOGE donation address: DT9ghsGmez6ojVdEZgvaZbT2Z3TruXG6yP
-   HVC donation address: HNN3PyyTMkDo4RkEjkWSGMwqia1yD8mwJN
-   GRS donation address: FmJKJAhvyHWPeEVeLQHefr2naqgWc9ABTM
-   MYR donation address: MNHM7Q7HVfGpKDJgVJrY8ofwvmeugNewyf
-   JPC donation address: JYFBypVDkk583yKWY4M46TG5vXG8hfgD2U
-   SFR donation address: SR4b87aEnPfTs77bo9NnnaV21fiF6jQpAp
-   MNC donation address: MShgNUSYwybEbXLvJUtdNg1a7rUeiNgooK
-   BTQ donation address: 13GFwLiZL2DaA9XeE733PNrQX5QYLFsonS
+   
 ***************************************************************
 
 >>> Introduction <<<
